@@ -3,25 +3,25 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 
-Change your directory
-```
 
+```
+Change your directory
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 
-Make a new Directory
-```
 
+```
+Make a new Directory
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 
-indicates its using html code
-```
 
+```
+indicates its using html code
 ```
 
 **4.** What does `HTML` stand for?
@@ -34,15 +34,14 @@ Hyper Text Markup Language
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 
-Cascading Style Sheets
 ```
+Cascading Style Sheets
 
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
 ```css
  
- A Selector, property and a value
  
  h1.main-title {
    color : rgba(255, 210, 33, .75);
@@ -52,52 +51,53 @@ Cascading Style Sheets
 ```
 <!-- enter you answer in the space below -->
 ```
+   A Selector, property and a value
 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 
-Font Weight
-```
 
+```
+Font Weight
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 
-<Body> </Body>
-```
 
+```
+<Body> </Body>
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 
+
+```
 <dl>
 <dt>
 <dd>
 ```
 
-```
-
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 
-Selects the length if the item is flexible otherwise is won't do anything
-```
 
+```
+Selects the length if the item is flexible otherwise is won't do anything
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 
+
+```
 margin-top
 margin-bottom
 margin-right
 margin-left
 shorthand
 margin properties
-```
-
 ```
