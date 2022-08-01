@@ -16,6 +16,7 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
+staff("Tim", 26, "Code Monkey")
 
 ```
 **3.** What is Encapsulation?
